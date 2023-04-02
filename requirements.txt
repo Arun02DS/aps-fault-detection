@@ -18,4 +18,5 @@ numpy
 pandas
 pyYAML
 scikit-learn
+apache-airflow
 -e .
